@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            6up7
 locale:           en_US
 url:              
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: 6up7
+  name: Shangqi Liu
   avatar: 42.png
   bio: "Life, The Universe, and Everything."
   email: 
